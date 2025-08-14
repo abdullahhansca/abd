@@ -2,7 +2,7 @@
 
 This Web based application provides following facilties to user.
 
-1.Daily pre production checking of all the departments (Packing and cooking Area) and submit using forms.
+1.Daily pre production checking of all the departments (Packing and cooking Area) and submit using forms.<br>
 2.Daily Traceability check of all ingredient and equipments and submit data using forms. 
 3.Add all the details of cooking phantom product (cooking start/end time, temprature, cooling time etc.) by the operators at different sections using their console or tablet.
 4.Add all details about packing (Product name, code, quantity, phantom batch etc) including auto generating batch number using console or tablet.
