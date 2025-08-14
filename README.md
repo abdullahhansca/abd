@@ -42,7 +42,7 @@ Production Checks - Cooking Area_2
 ![CLeaning Log](https://github.com/abdullahhansca/abd/blob/b675096d1fc3f64db11d887867fc1e04b4e029ad/photos/cleaning_log.jpg)
 CLeaning Log
 ***
-![Good In](https://github.com/abdullahhansca/abd/blob/601588d4f8335d33aee5a5e44b7ef77b5419c6b5/photos/goods_in.jpg)
+![Good In](https://github.com/abdullahhansca/abd/blob/d77087d9d6f6f30369aaa9eb36369296d32b1624/photos/goods_in.jpg)
 Good In
 ***
 ![Regrigerator Popup](https://github.com/abdullahhansca/abd/blob/601588d4f8335d33aee5a5e44b7ef77b5419c6b5/photos/ref_temp.jpg)
